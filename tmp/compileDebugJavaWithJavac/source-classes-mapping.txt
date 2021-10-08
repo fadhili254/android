@@ -1,0 +1,2 @@
+com/moo/listview/BuildConfig.java
+ com.moo.listview.BuildConfig
